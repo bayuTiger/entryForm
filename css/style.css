@@ -1,0 +1,44 @@
+.content{
+  background-color: white;
+  width: 600px;
+  margin: 10px auto;
+  border: 1px solid gray;
+  padding: 30px;
+}
+
+input{
+  border:none;
+  border-bottom: 1px solid skyblue;
+  font-size: 1.2em;
+  padding: 8px;
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+button{
+  width: 100%;
+  background-color: skyblue;
+  color: white;
+  padding: 15px;
+  margin-top: 8px;
+  border:0px;
+  border-radius: 4px;
+  box-shadow: 0 0  8px rgb(0, 0, 0, .4);
+}
+
+.required{
+  color: red;
+  font-size: .9em;
+  padding: 3px;
+  background-color: #fee;
+  font-weight: bold;
+}
+
+body{
+  background-color: #fafafa;
+}
+
+label{
+  display: block;
+  margin-bottom: .5em;
+}
